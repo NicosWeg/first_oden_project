@@ -1,2 +1,2 @@
 # first_oden_project
-"Hello Odin!"
+Odin_projects_foundation_landing_page
